@@ -1,0 +1,1 @@
+deepseek集成的方法在./.qwen里
